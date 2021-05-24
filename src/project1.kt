@@ -13,5 +13,5 @@ fun bookAuthor() {
         author="John Steinbeck"
     }
     println("I will buy this book by $author when I go to town tomorrow.")
-
+println(5/2)
 }
